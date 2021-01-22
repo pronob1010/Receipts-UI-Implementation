@@ -1,0 +1,9 @@
+.container {
+    margin-bottom: 65x;
+}
+.caption-side {
+    caption-side: top;
+}
+.alert alert-success{
+    align-self: center;
+}
